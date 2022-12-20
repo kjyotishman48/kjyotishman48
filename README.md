@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjyotishman48&show_icons=true&locale=en" alt="kjyotishman48" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjyotishman48&theme=radical)
